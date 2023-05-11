@@ -1,0 +1,26 @@
+.col-md-10{
+	justify-content: right;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.sizes{
+	right: 180px;
+}
+
+
+.col-md-3{text-align: left;
+
+}
+.col-md-5{ text-align: left;
+
+}
+.row{
+	
+	padding: 40px;
+}
+
+p{
+	color: grey;
+}
